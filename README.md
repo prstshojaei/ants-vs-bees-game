@@ -2,7 +2,7 @@
 
 A desktop tower-defence game built in **Java** and **JavaFX**, where the player deploys a colony of ants to defend their Queen from waves of invading bees. Developed as a group project for the **MSc Software Engineering (CSYM026)** module at the **University of Northampton**, working from a provided legacy Java Swing starter engine and extending it into a complete, packaged, playable game.
 
-> ⚠️ **This was a 3-person team project.** This repository (`github.com/prstshojaei/ants-vs-bees-game`) is my personal copy for portfolio purposes. The original team repository and full credits are linked below. My specific contributions are listed in the [My Contributions](#my-contributions) section.
+> **This was a 3-person team project.** This repository (`github.com/prstshojaei/ants-vs-bees-game`) is my personal copy for portfolio purposes. The original team repository and full credits are linked below. My specific contributions are listed in the [My Contributions](#my-contributions) section.
 
 ---
 
