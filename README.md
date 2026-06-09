@@ -12,7 +12,7 @@ A desktop tower-defence game built in **Java** and **JavaFX**, where the player 
 ![Main menu](screenshots/main-menu.png)
 
 ### Gameplay
-![Gameplay](screenshots/gameplay.png)
+![Gameplay](screenshots/Gameplay.png)
 
 ---
 
