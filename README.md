@@ -6,6 +6,16 @@ A desktop tower-defence game built in **Java** and **JavaFX**, where the player 
 
 ---
 
+## Screenshots
+
+### Main Menu
+![Main menu](screenshots/main-menu.png)
+
+### Gameplay
+![Gameplay](screenshots/gameplay.png)
+
+---
+
 ## Gameplay
 
 - Deploy 13+ ant types, each with distinct behaviour and food costs (Harvester, Thrower, Wall, Fire, Ninja, Hungry, Bodyguard, Scuba, Slow/Stun/Short/Long Thrower, and the Queen).
